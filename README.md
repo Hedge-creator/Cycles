@@ -1,1 +1,1 @@
-# Cycles
+Циклы на Python
